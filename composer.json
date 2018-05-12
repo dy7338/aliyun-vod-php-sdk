@@ -9,9 +9,13 @@
       "email": "491286281@qq.com"
     }
   ],
+  "require": {
+    "php": ">=5.3",
+    "dy7338/aliyun-php-sdk-core": "dev-master"
+  },
   "autoload": {
     "psr-4": {
-      "Aliyunvod\\": "src/"
+      "vod\\": "src/vod"
     }
   }
 }
