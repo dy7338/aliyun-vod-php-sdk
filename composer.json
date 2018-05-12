@@ -1,0 +1,17 @@
+{
+  "name": "dy7338/aliyun-vod-php-sdk",
+  "description": "阿里云视频点播",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "王小乐",
+      "email": "491286281@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Aliyunvod\\": "src/"
+    }
+  }
+}
